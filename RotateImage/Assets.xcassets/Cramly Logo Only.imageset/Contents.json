@@ -1,12 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "Cramly® small.jpeg",
+      "filename" : "Cramly Logo Only.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Cramly with TM.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },

@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DF7E7F442A18D81A00DE30BA /* Ananda.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DF7E7F422A18D81A00DE30BA /* Ananda.ttf */; };
+		DF7E7F452A18D81A00DE30BA /* Ananda Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DF7E7F432A18D81A00DE30BA /* Ananda Black.ttf */; };
 		DFB0532329D3B41000334182 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB0532229D3B41000334182 /* AppDelegate.swift */; };
 		DFB0532529D3B41000334182 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB0532429D3B41000334182 /* SceneDelegate.swift */; };
 		DFB0532A29D3B41000334182 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFB0532829D3B41000334182 /* Main.storyboard */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DF7E7F422A18D81A00DE30BA /* Ananda.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Ananda.ttf; path = ../../../Cramly/designcrowd_123857_30260193_4033181_vector/Fonts/Ananda.ttf; sourceTree = "<group>"; };
+		DF7E7F432A18D81A00DE30BA /* Ananda Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Ananda Black.ttf"; path = "../../../Cramly/designcrowd_123857_30260193_4033181_vector/Fonts/Ananda Black.ttf"; sourceTree = "<group>"; };
 		DFB0531F29D3B41000334182 /* RotateImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RotateImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFB0532229D3B41000334182 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DFB0532429D3B41000334182 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				DFB0532B29D3B41200334182 /* Assets.xcassets */,
 				DFB0532D29D3B41200334182 /* LaunchScreen.storyboard */,
 				DFB0533029D3B41200334182 /* Info.plist */,
+				DF7E7F422A18D81A00DE30BA /* Ananda.ttf */,
+				DF7E7F432A18D81A00DE30BA /* Ananda Black.ttf */,
 			);
 			path = RotateImage;
 			sourceTree = "<group>";
@@ -126,6 +132,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DFB0532F29D3B41200334182 /* LaunchScreen.storyboard in Resources */,
+				DF7E7F452A18D81A00DE30BA /* Ananda Black.ttf in Resources */,
+				DF7E7F442A18D81A00DE30BA /* Ananda.ttf in Resources */,
 				DFB0532C29D3B41200334182 /* Assets.xcassets in Resources */,
 				DFB0532A29D3B41000334182 /* Main.storyboard in Resources */,
 			);
